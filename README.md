@@ -1,7 +1,7 @@
 # MetaGeo
 # Probabilistic meta-learning based Model for Twitter-users' geolocation location Identification
 - This is the code for our paper *MetaGeo: A General Framework for Social User Geolocation Identification with Few-shot Learning
-- This article has been submitted to IEEE-TNNLS https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385
+- This paper has been submitted to IEEE-TNNLS https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385
 ***********************************************************
 
 ## Datasets
